@@ -1,6 +1,6 @@
 {
   "name": "cross-osx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Check if it is running in OSX on Node.js and Browser environment.",
   "license": "MIT",
   "repository": "egoist/cross-osx",
