@@ -13,10 +13,12 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "xo && ava"
+    "test": "xo && ava",
+    "build": "rm -rf dist && tooling build --disable-html --umd crossOSX --dest dist --entry index --target node --filename cross-osx.js"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "dist"
   ],
   "keywords": [
     ""

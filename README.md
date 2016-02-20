@@ -8,6 +8,8 @@
 $ npm install --save cross-osx
 ```
 
+Or use UMD format script via CDN: https://npmcdn.com/cross-osx/dist/cross-osx.js
+
 ## Usage
 
 ```js
